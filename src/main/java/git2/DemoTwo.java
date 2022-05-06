@@ -6,5 +6,7 @@ public class DemoTwo {
 		System.out.println("Git demo2");
 		System.out.println("random code");
 	}
-
+	public void add(int a, int b) {
+		System.out.println(a+b);
+	}
 }
