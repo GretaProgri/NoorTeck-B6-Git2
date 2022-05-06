@@ -12,4 +12,7 @@ public class DemoTwo {
 	public void substract( int a, int b) {
 		System.out.println(a-b);
 	}
+	public void multiply(int a, int b) {
+		System.out.println(a*b);
+	}
 }
